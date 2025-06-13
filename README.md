@@ -168,3 +168,6 @@ src/
 - You must set up your own Supabase project and configure the environment variables for authentication to work
 - For production, ensure you properly secure your environment variables
 - Consider implementing additional features like password reset, email verification, and profile management
+=======
+# Emiliano-Marquez-ADNT-Supabase-
+>>>>>>> 251e3fea719863cef71125fa4961f5ea294f6c01
